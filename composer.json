@@ -3,7 +3,7 @@
 	"type": "lithium-library",
 	"description": "Lithium data source for use with 'willdurand/geocoder'.",
 	"keywords": ["geo", "geolocation", "lookup"],
-	"homepage": "https://github.com/blainesch/li3_geolocation",
+	"homepage": "https://github.com/BlaineSch/li3_geolocation",
 	"license": "MIT License",
 	"authors": [
 		{
