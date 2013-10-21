@@ -1,6 +1,6 @@
 <?php
 
-namespace app\models;
+namespace li3_geocoder\models;
 
 use lithium\data\Model;
 

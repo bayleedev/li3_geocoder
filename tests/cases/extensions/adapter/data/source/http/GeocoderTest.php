@@ -1,8 +1,8 @@
 <?php
 
-namespace app\tests\cases\extensions\adapter\data\source\http;
+namespace li3_geocoder\tests\cases\extensions\adapter\data\source\http;
 
-use app\extensions\adapter\data\source\http\geocoder\Mock as Geocoder;
+use li3_geocoder\extensions\adapter\data\source\http\geocoder\Mock as Geocoder;
 use lithium\test\Mocker;
 
 class GeocoderTest extends \lithium\test\Unit {

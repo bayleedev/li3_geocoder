@@ -1,9 +1,9 @@
 <?php
 
-namespace app\tests\cases\models;
+namespace li3_geocoder\tests\cases\models;
 
 use lithium\data\Connections;
-use app\models\Geocoder;
+use li3_geocoder\models\Geocoder;
 
 class GeocoderTest extends \lithium\test\Unit {
 

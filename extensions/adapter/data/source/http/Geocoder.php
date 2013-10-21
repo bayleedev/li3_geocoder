@@ -1,6 +1,6 @@
 <?php
 
-namespace app\extensions\adapter\data\source\http;
+namespace li3_geocoder\extensions\adapter\data\source\http;
 
 use Geocoder\Geocoder as Geo;
 use ReflectionClass;
