@@ -1,0 +1,19 @@
+{
+	"name": "blainesch/li3_geocoder",
+	"type": "lithium-library",
+	"description": "",
+	"keywords": ["geo", "geolocation", "lookup"],
+	"homepage": "https://github.com/blainesch/li3_geolocation",
+	"license": "MIT License",
+	"authors": [
+		{
+			"name": "Blaine Schmeisser",
+			"email": "BlaineSch@gmail.com",
+			"homepage": "http://github.com/BlaineSch"
+		}
+	],
+	"require": {
+		"php": ">=5.3",
+		"composer/installers": "*"
+	}
+}
